@@ -7,7 +7,8 @@
   ],
   "client": [
     "LivingEntityRendererMixin",
-    "AbstractClientPlayerEntityMixin"
+    "AbstractClientPlayerEntityMixin",
+    "InGameHudMixin"
   ],
   "injectors": {
     "defaultRequire": 1
