@@ -8,10 +8,6 @@
   "authors": [
     "Hibi"
   ],
-  "contact": {
-    "homepage": "https://legacyfabric.net/",
-    "sources": "https://github.com/Legacy-Fabric/fabric-example-mod"
-  },
 
   "license": "Unlicense",
   "icon": "assets/bountifuladditions/icon.png",
@@ -27,7 +23,7 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.9.0",
+    "fabricloader": ">=0.12.0",
     "minecraft": "1.8.9"
   }
 }
