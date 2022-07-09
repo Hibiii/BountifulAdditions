@@ -15,7 +15,7 @@ public class InGameHudMixin {
 	@Shadow @Final
 	private MinecraftClient client;
 	@Inject(
-		method = "method_2427()Z",
+		method = "method_9429()Z",
 		at = @At("HEAD"),
 		cancellable = true
 	)
